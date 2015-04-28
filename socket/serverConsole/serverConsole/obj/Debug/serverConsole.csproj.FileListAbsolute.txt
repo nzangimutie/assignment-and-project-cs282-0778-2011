@@ -1,0 +1,8 @@
+c:\users\zagy\documents\visual studio 2013\Projects\serverConsole\serverConsole\bin\Debug\serverConsole.exe.config
+c:\users\zagy\documents\visual studio 2013\Projects\serverConsole\serverConsole\bin\Debug\serverConsole.exe
+c:\users\zagy\documents\visual studio 2013\Projects\serverConsole\serverConsole\bin\Debug\serverConsole.pdb
+c:\users\zagy\documents\visual studio 2013\Projects\serverConsole\serverConsole\obj\Debug\serverConsole.csprojResolveAssemblyReference.cache
+c:\users\zagy\documents\visual studio 2013\Projects\serverConsole\serverConsole\obj\Debug\serverConsole.exe
+c:\users\zagy\documents\visual studio 2013\Projects\serverConsole\serverConsole\obj\Debug\serverConsole.pdb
+C:\Users\Zagy\Documents\Visual Studio 2013\Projects\serverConsole\serverConsole\bin\Debug\chatDb.accdb
+C:\Users\Zagy\Documents\Visual Studio 2013\Projects\serverConsole\serverConsole\bin\Debug\chatDbDataSet.Designer.cs.dll

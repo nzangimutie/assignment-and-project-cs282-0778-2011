@@ -1,0 +1,10 @@
+C:\Users\Zagy\Downloads\udpchat\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.exe.config
+C:\Users\Zagy\Downloads\udpchat\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.exe
+C:\Users\Zagy\Downloads\udpchat\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.pdb
+C:\Users\Zagy\Downloads\udpchat\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\chat_UDPClient.csprojResolveAssemblyReference.cache
+C:\Users\Zagy\Downloads\udpchat\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+C:\Users\Zagy\Downloads\udpchat\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+C:\Users\Zagy\Downloads\udpchat\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+C:\Users\Zagy\Downloads\udpchat\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\chat_UDPClient.csproj.GenerateResource.Cache
+C:\Users\Zagy\Downloads\udpchat\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.exe
+C:\Users\Zagy\Downloads\udpchat\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.pdb

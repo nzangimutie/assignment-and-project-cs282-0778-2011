@@ -1,0 +1,6 @@
+c:\users\zagy\documents\visual studio 2013\Projects\Client console\Client console\bin\Debug\Client console.exe.config
+c:\users\zagy\documents\visual studio 2013\Projects\Client console\Client console\bin\Debug\Client console.exe
+c:\users\zagy\documents\visual studio 2013\Projects\Client console\Client console\bin\Debug\Client console.pdb
+c:\users\zagy\documents\visual studio 2013\Projects\Client console\Client console\obj\Debug\Client console.csprojResolveAssemblyReference.cache
+c:\users\zagy\documents\visual studio 2013\Projects\Client console\Client console\obj\Debug\Client console.exe
+c:\users\zagy\documents\visual studio 2013\Projects\Client console\Client console\obj\Debug\Client console.pdb
